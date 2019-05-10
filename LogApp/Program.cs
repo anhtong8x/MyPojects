@@ -11,6 +11,7 @@ namespace LogApp
 		static void Main(string[] args)
 		{
 			Console.WriteLine("hello");
+			MNLog.Info("Tên file", "Nội dung lỗi");
 			Console.ReadKey();
 		}
 	}

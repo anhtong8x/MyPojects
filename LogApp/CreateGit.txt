@@ -1,0 +1,9 @@
+Dua project len git
+
+1. Tao project
+2. Chuat fai vao project chonj Add to source
+3. Kiem tra xem da dang nhap chua
+4. Nhan vao nut hom tren thanh tren cung
+5. Chon sync la ca project se dc dua len git
+
+https://www.youtube.com/watch?v=qTu1C8Cnq5c
